@@ -26,6 +26,3 @@ jobs:
         run: |
           eb deploy
 
-[19:55] maria del mar bonilla rodriguez
-es que no me sale ni el error
-
